@@ -152,9 +152,11 @@
     background-color: rgba(0, 0, 0, 0.208);
     color: white;
 }
+#home .container .btn a{
+    text-decoration:none;
+}
 
 #home .container .btn :hover {
-    background-color: rgba(0, 0, 0, 0.522);
     color: crimson;
 }
 
